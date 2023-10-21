@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522818225091",
+    "project_id": "chatapp-9902a",
+    "storage_bucket": "chatapp-9902a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522818225091:android:7cf23dce45e55218d2f376",
+        "android_client_info": {
+          "package_name": "com.av.avmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2DgEe_OgJvWydFeaYMQnv7U-TLAjHUzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
