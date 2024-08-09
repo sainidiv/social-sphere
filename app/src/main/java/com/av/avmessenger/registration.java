@@ -132,7 +132,7 @@ public class registration extends AppCompatActivity {
                                      });
                                  }else {
                                      String status = "Hey I'm Using This Application";
-                                     imageuri = "https://firebasestorage.googleapis.com/v0/b/chatapp-9902a.appspot.com/o/man.png?alt=media&token=2fec5460-b90f-4c4a-92c1-85977b52241f";
+                                     imageuri = "https://firebasestorage.googleapis.com/v0/b/av-messenger-58a02.appspot.com/o/man.png?alt=media&token=2f484f91-c478-49b6-9abf-a928efd58898";
                                      Users users = new Users(id,namee,emaill,Password,imageuri,status);
                                      reference.setValue(users).addOnCompleteListener(new OnCompleteListener<Void>() {
                                          @Override

@@ -1,13 +1,14 @@
 {
   "project_info": {
-    "project_number": "522818225091",
-    "project_id": "chatapp-9902a",
-    "storage_bucket": "chatapp-9902a.appspot.com"
+    "project_number": "597487106644",
+    "firebase_url": "https://av-messenger-58a02-default-rtdb.firebaseio.com",
+    "project_id": "av-messenger-58a02",
+    "storage_bucket": "av-messenger-58a02.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:522818225091:android:7cf23dce45e55218d2f376",
+        "mobilesdk_app_id": "1:597487106644:android:7b86b7e945f874fa8ecbc1",
         "android_client_info": {
           "package_name": "com.av.avmessenger"
         }
@@ -15,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB2DgEe_OgJvWydFeaYMQnv7U-TLAjHUzg"
+          "current_key": "AIzaSyDNaQ3vhSXBgiNH4CGU_D4lZmjvqPPNowU"
         }
       ],
       "services": {
